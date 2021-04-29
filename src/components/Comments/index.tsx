@@ -1,9 +1,9 @@
 /* eslint-disable prettier/prettier */
 /* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 /* eslint-disable @typescript-eslint/explicit-function-return-type */
-import { Component, ReactElement } from 'react';
+import { Component } from 'react';
 
-export default class Comments extends Component<ReactElement> {
+export default class Comments extends Component {
   componentDidMount() {
     const script = document.createElement('script');
     const anchor = document.getElementById('inject-comments-for-uterances');
