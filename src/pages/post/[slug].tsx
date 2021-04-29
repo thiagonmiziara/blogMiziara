@@ -13,7 +13,9 @@ import { FiCalendar, FiClock, FiUser } from 'react-icons/fi';
 
 import Prismic from '@prismicio/client';
 import { RichText } from 'prismic-dom';
+
 import Header from '../../components/Header';
+import Comments from '../../components/Comments';
 
 import { getPrismicClient } from '../../services/prismic';
 
@@ -108,6 +110,9 @@ export default function Post({ post, preview }: PostProps): JSX.Element {
             );
           })}
         </div>
+
+        <Comments />
+
         {preview && (
           <aside>
             <Link href="/api/exit-preview">
