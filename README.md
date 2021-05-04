@@ -8,21 +8,6 @@
 
 <h1 align="center">Criando Um Projeto Do Zero</h1>
 
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/thiagonmiziara/criando-um-projeto-do-zero?color=56BEB8" /> -->
-</p>
 
 <!-- Status -->
 
